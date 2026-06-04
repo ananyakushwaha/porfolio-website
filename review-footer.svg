@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <rect width="900" height="260" fill="#fff"/>
+  <line x1="160" y1="80" x2="740" y2="80" stroke="#999"/>
+  <circle cx="380" cy="150" r="22" fill="#354452"/>
+  <circle cx="430" cy="150" r="22" fill="#354452"/>
+  <circle cx="480" cy="150" r="22" fill="#354452"/>
+  <rect y="260" width="900" height="300" fill="#111"/>
+  <text x="80" y="330" font-family="Arial" font-size="25" font-weight="900" fill="#fff">About</text>
+  <text x="310" y="330" font-family="Arial" font-size="25" font-weight="900" fill="#fff">Newsletter</text>
+  <text x="520" y="330" font-family="Arial" font-size="25" font-weight="900" fill="#fff">Instagram</text>
+  <text x="720" y="330" font-family="Arial" font-size="25" font-weight="900" fill="#fff">Follow Us</text>
+  <rect x="310" y="370" width="170" height="34" fill="#000"/>
+  <rect x="480" y="370" width="34" height="34" fill="#acd4f7"/>
+  <rect x="520" y="368" width="42" height="42" fill="#f2b4c6"/>
+  <rect x="570" y="368" width="42" height="42" fill="#d4b36c"/>
+  <rect x="620" y="368" width="42" height="42" fill="#75a8d4"/>
+  <rect x="520" y="420" width="42" height="42" fill="#fac5c8"/>
+  <rect x="570" y="420" width="42" height="42" fill="#426a7e"/>
+  <text x="80" y="370" font-family="Arial" font-size="15" fill="#777">Beauty review website footer</text>
+  <text x="310" y="394" font-family="Arial" font-size="16" fill="#777">Email</text>
+</svg>

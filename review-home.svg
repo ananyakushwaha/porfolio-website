@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <rect width="900" height="560" fill="#f0e5e5"/>
+  <rect width="900" height="62" fill="#fff"/>
+  <text x="42" y="40" font-family="Arial" font-size="24" fill="#26384a">ANT</text>
+  <text x="350" y="39" font-family="Arial" font-size="14" fill="#26384a">Home    Category    Archive    Pages    Contact Us</text>
+  <rect x="170" y="118" width="560" height="300" rx="4" fill="#f6d9df"/>
+  <circle cx="265" cy="268" r="55" fill="#fff1f4"/>
+  <rect x="365" y="190" width="160" height="84" fill="#eabac6"/>
+  <rect x="546" y="210" width="84" height="68" fill="#f2c6cf"/>
+  <rect x="650" y="214" width="48" height="120" fill="#d99ba9"/>
+  <text x="382" y="210" font-family="Arial" font-size="16" font-weight="700" fill="#111">ART AND TECHNOLOGY</text>
+  <text x="300" y="250" font-family="Arial" font-size="32" font-weight="900" fill="#000">CREATE, CODE, PAINT</text>
+  <rect x="408" y="278" width="92" height="34" rx="17" fill="#a9d5ff"/>
+  <text x="430" y="302" font-family="Arial" font-size="24" fill="#000">Explore</text>
+</svg>

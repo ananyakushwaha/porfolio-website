@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <rect width="900" height="560" fill="#eeeeee"/>
+  <rect x="70" y="52" width="560" height="420" fill="#fff"/>
+  <rect x="660" y="52" width="170" height="270" fill="#fff"/>
+  <text x="92" y="112" font-family="Arial" font-size="34" font-weight="700" fill="#333">Checkout - Payment method</text>
+  <rect x="100" y="152" width="520" height="42" fill="#fff"/>
+  <rect x="360" y="152" width="140" height="42" fill="#51bfa9"/>
+  <text x="126" y="180" font-family="Arial" font-size="15" fill="#35bda6">Address</text>
+  <text x="246" y="180" font-family="Arial" font-size="15" fill="#35bda6">Delivery Method</text>
+  <text x="384" y="180" font-family="Arial" font-size="15" font-weight="700" fill="#fff">Payment Method</text>
+  <text x="530" y="180" font-family="Arial" font-size="15" fill="#999">Order Review</text>
+  <rect x="100" y="226" width="220" height="112" fill="#fff" stroke="#ddd"/>
+  <rect x="342" y="226" width="250" height="112" fill="#fff" stroke="#ddd"/>
+  <rect x="100" y="360" width="220" height="88" fill="#fff" stroke="#ddd"/>
+  <text x="120" y="264" font-family="Arial" font-size="20" font-weight="700" fill="#333">Paypal</text>
+  <text x="362" y="264" font-family="Arial" font-size="20" font-weight="700" fill="#333">Payment gateway</text>
+  <text x="120" y="398" font-family="Arial" font-size="20" font-weight="700" fill="#333">Cash on delivery</text>
+  <text x="362" y="294" font-family="Arial" font-size="15" fill="#444">VISA and Mastercard only.</text>
+  <text x="680" y="102" font-family="Arial" font-size="24" font-weight="700" fill="#333">Order summary</text>
+  <line x1="680" y1="150" x2="810" y2="150" stroke="#ddd" stroke-width="2"/>
+  <text x="680" y="190" font-family="Arial" font-size="15" fill="#888">Order subtotal</text>
+  <text x="760" y="190" font-family="Arial" font-size="15" font-weight="700" fill="#333">$446</text>
+  <text x="680" y="232" font-family="Arial" font-size="15" fill="#888">Shipping</text>
+  <text x="760" y="232" font-family="Arial" font-size="15" font-weight="700" fill="#333">$10</text>
+  <text x="680" y="280" font-family="Arial" font-size="22" font-weight="700" fill="#333">Total $456</text>
+</svg>
